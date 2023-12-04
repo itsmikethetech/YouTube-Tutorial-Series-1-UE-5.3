@@ -8,6 +8,7 @@
 - Lesson #02: Crouch and Sprint ([YouTube Video](https://youtu.be/hR9x3uYG2x8) | [Commit](https://github.com/itsmikethetech/YouTube-Tutorial-Series-1-UE-5.3/tree/38f085de40c8860c1b146c869c179ed8796a9582))
 - Lesson #03: Crouch Animations ([YouTube Video](https://youtu.be/Z_KhdjtmZk4) | [Commit](https://github.com/itsmikethetech/YouTube-Tutorial-Series-1-UE-5.3/tree/c68f1712f6d91483b3c9f76855e5675cf2fe08bc))
 - Lesson #04: Launch Pads ([YouTube Video](https://youtu.be/QFwkEpP2bzc) | [Commit](https://github.com/itsmikethetech/YouTube-Tutorial-Series-1-UE-5.3/tree/51de46848a6343cc00b3d98f9450a2808cffa69a))
+- Lesson #05: AnimMontages and Taunt Implementation ([YouTube Video](https://youtu.be/6BYe3WhK_-U) | [Commit](https://github.com/itsmikethetech/YouTube-Tutorial-Series-1-UE-5.3/tree/e5a6db85d6afda9c9f17e7aec19ae3d7588dda38))
 
 # Planned
 - Crouch
